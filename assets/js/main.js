@@ -75,6 +75,8 @@
         }, 1500, 'easeInOutExpo');
       }
     }
+    // Covid Modal Box
+    $("#myCovidModal").modal('show');
   });
 
   // Mobile Navigation
